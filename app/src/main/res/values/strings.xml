@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PeticionesWeb</string>
+    <string name="btnRequest">Jalar Data</string>
+</resources>
